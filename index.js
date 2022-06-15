@@ -1,1 +1,1 @@
-require("./Stack/StackLIFOArray");
+require("./Stack/StackLIFOObject");
